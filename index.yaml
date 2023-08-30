@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   nuntio:
   - apiVersion: v2
+    appVersion: 0.7.0
+    created: "2023-08-30T07:46:50.623315314Z"
+    description: A Helm chart for Kubernetes
+    digest: cbbd9d06d3ed69d652330f4e62c388cef3eb26808ac87463999b840d72dbe926
+    name: nuntio
+    type: application
+    urls:
+    - https://github.com/nuntiodev/charts/releases/download/nuntio-0.3.0/nuntio-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
     appVersion: 1.16.0
     created: "2023-08-08T10:21:39.82152713Z"
     description: A Helm chart for Kubernetes
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://github.com/nuntiodev/charts/releases/download/nuntio-0.1.0/nuntio-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-08T10:21:39.82156703Z"
+generated: "2023-08-30T07:46:50.623334914Z"
