@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  rig:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-09-03T20:27:59.880764244Z"
+    description: Rig is the open-source application platform for Kubernetes.
+    digest: 9844ad7fcb640d3059c0ae4f9ff0b418c70f7160aa5edda628b1304efa01a4f1
+    home: https://github.com/rigdev/rig
+    name: rig
+    type: application
+    urls:
+    - https://github.com/rigdev/charts/releases/download/rig-0.4.1/rig-0.4.1.tgz
+    version: 0.4.1
+generated: "2023-09-03T20:27:59.880835648Z"
